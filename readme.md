@@ -1,151 +1,24 @@
-<html>
-<head>
-	
-</head>
-<body>
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-		<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-		<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-		<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-		<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-		<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-	<img src="love.png" width="100" height="100">
-</body>
-</html>
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)
+![love](love.png) ![love](love.png) ![love](love.png)

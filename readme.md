@@ -1,6 +1,4 @@
-# Full Stack developer
-My name is Michael, I am a technology enthusiast and passionate about creating digital solutions. I improve my theoretical and practical knowledge every day.
-## Tech Stack
+# Web developer
 
 <div align="center">
 
